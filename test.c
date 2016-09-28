@@ -2,5 +2,5 @@
 
 void main(){
 
-	
+	printf("what the fuck you want?");	
 }
